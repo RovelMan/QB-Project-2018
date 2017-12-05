@@ -2,3 +2,4 @@
 Nå skriver jeg
 
 Hei
+nÅ skriil
