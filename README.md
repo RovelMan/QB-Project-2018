@@ -1,5 +1,3 @@
 # QB-Project-2018
-Nå skriver jeg
 
-Hei
-nÅ skriil
+Link til google docs: kommer senere
