@@ -1,3 +1,2 @@
 # QB-Project-2018
-Nå skriver jeg på Readme.md
-Hei
+Nå skriver jeg
