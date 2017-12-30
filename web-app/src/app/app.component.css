@@ -1,3 +1,23 @@
 #modalOneDialog {
     margin-top: 200px;
 }
+
+#mainContainer {
+    display: flex;
+    justify-content: center;
+}
+
+#headerBody {
+    position: absolute;
+}
+
+#header {
+    margin-top: 200px;
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar {
+    padding: 25px;
+    margin-bottom: 0px;
+}
