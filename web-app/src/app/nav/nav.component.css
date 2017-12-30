@@ -1,0 +1,30 @@
+.navbar {
+    padding: 20px;
+    margin-bottom: 0px;
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+#messageDialog {
+    margin-top: 200px;
+}
+
+#drop {
+    width: 300px;
+    padding: 20px;
+    border: solid black 1px;
+}
+
+@media screen and (max-width: 800px) {
+    #drop a {
+        color: white;
+    }
+    #drop .btn-primary {
+        background-color: #4e5d6c;
+    }
+    #drop {
+        border: none;
+    }
+}
